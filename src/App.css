@@ -1,0 +1,35 @@
+body{
+  margin-top: 60px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ -webkit-font-smoothing: antialiased;
+ background-image: url(../src/components/assets/waterfall.jpg);
+}
+.name{
+  color: white;
+  font-size: 10px;
+}
+.adress{
+  padding: 15px;
+  color: white;
+  font-size: 10px;
+}
+.adress p{
+  font-size: 15px;
+  color: white;
+}
+
+.img-card{
+  width: 445px;
+  height: 300px;
+}
+
+.Card{
+  background-color: rgb(68, 37, 37);
+  border: 1px solid black;
+  box-shadow: 0 0 5px black;
+  margin: auto;
+  width: 60%;
+}
